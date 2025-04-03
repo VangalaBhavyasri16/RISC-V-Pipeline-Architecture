@@ -1,5 +1,6 @@
 # RISC-V-Pipeline-Architecture
 This project implements a RISC-V processor with a pipeline architecture that supports arithmetic, store, and load instructions. It effectively manages structural and data hazards to optimize execution.
+
 #5-Stage Pipeline Implementation
 The processor follows  five-stage pipeline architecture, improving instruction throughput and minimizing execution time. The stages include:
 Instruction Fetch (IF): Fetches the instruction from memory.
